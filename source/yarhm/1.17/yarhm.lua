@@ -185,11 +185,11 @@ Converted["_YARHM"].IgnoreGuiInset = true
 Converted["_YARHM"].ScreenInsets = Enum.ScreenInsets.DeviceSafeInsets
 Converted["_YARHM"].ResetOnSpawn = false
 Converted["_YARHM"].ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-Converted["_YARHM"].Name = "YARHM"
+Converted["_YARHM"].Name = "yarhm-modded-V1"
 Converted["_YARHM"].Parent = game:GetService("CoreGui")
 
 Converted["_Open"].Font = Enum.Font.Gotham
-Converted["_Open"].Text = "Triple-click this region to open YARHM."
+Converted["_Open"].Text = "Triple-click this region to open yarhm modded v1."
 Converted["_Open"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_Open"].TextScaled = true
 Converted["_Open"].TextSize = 14
